@@ -1,0 +1,8 @@
+# Generated video outputs (too large for GitHub)
+*.mp4
+*.mov
+*.webm
+
+# OS files
+.DS_Store
+Thumbs.db
